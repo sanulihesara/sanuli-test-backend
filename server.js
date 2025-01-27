@@ -3,7 +3,7 @@ const cors = require("cors");
 const aboutMeData = require("./data");
 
 const app = express();
-const PORT = 5002; //
+const PORT = 5002;
 
 app.use(cors());
 
